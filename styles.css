@@ -46,3 +46,7 @@ body {
 	color: #222940;
 	text-decoration: none;
 }
+.navigation li a:hover {
+	background-color: #222940;
+	color: #f2f2f2;
+}
